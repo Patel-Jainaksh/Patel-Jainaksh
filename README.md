@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Jainaksh+Patel!+👋;+I'm+Jainaksh+Patel!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Pune 🇮🇳</h3>
+<h3 align="center">A passionate software developer from Surat 🇮🇳</h3>
 
 <br/>
 
@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/jainaksh-patel-b5468a196/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Codimate" target="_blank">
+  <a href="https://github.com/Patel-Jainaksh" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
