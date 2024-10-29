@@ -10,11 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Face Detection Problem**
- 
- 🌱 I’m currently learning **Genetic Algorithm, Reactjs, Nextjs**
+ 🔭 I’m currently working as **AI Project Engineer**
 
-💬 Ask me about **Node.js, React, Machine Learning... or anything [here](https://github.com/Codimate/Codimate/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)**
+💬 Ask me about **AI, ML algorithms, Nerural Networks, Deep Learning... or anything [here](https://github.com/Codimate/Codimate/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
