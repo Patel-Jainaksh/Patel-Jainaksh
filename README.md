@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Jainaksh+Patel!+👋;+I'm+Jainaksh+Patel!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Surat 🇮🇳</h3>
+<h3 align="center">A passionate Artificial Intelligence developer from Ahmedabad IN</h3>
 
 <br/>
 
