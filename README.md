@@ -86,7 +86,9 @@
 ```
 
 ### 🤖 Custom AI Models Developed
-- **📱 Person using Phone Detection** - Custom CNN Architecture
+- **🧑 Human Detection** - Custom Trained RT-DETR model for Object Detection
+- **🐆 Animal Classification** - Custom Architecture of RT-DETR model as Detection and Facebook DINVO-V2 Model for Classification
+- **📱 Person using Phone Detection** - Custom CNN Architecture for Usage of Phones
 - **🔫 Gun Detection System** - Real-time threat identification
 - **😴 Drowsiness Detection** - Driver safety monitoring
 - **🚗 Driver Management System (DMS)** - 30% accident reduction for Indian Railways
