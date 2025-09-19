@@ -100,23 +100,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patel-Jainaksh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patel-Jainaksh&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patel-Jainaksh&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Patel-Jainaksh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 ### 🔍 AI-Powered Surveillance & Security
