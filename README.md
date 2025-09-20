@@ -18,7 +18,7 @@
 -  Currently working at **Maharshi Industries Pvt Ltd** on AI-driven Surveillance Systems for **DRDO, Indian Army & Indian Navy**
 -  Deployed AI solutions in **Rajouri Sector** and **Kupawara near Srinagar** with Battle Field Surveillance systems
 -  Achieved **25% reduction in security breaches** and **70% reduction in false alarms** through advanced AI implementations
-- 🎓 **Post Graduate in AI & ML** from MIT-World Peace University with **8.56 CGPA**
+-  **Post Graduate in AI & ML** from MIT-World Peace University with **8.56 CGPA**
 -  Passionate about **Computer Vision**, **GPU Optimization**, **Robotics**, and **Edge Computing**
 -  Always exploring cutting-edge technologies in **AI**, **Deep Learning**, and **IoT**
 -  Reach me at: **jainaksh.1998@gmail.com**
