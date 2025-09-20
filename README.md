@@ -11,28 +11,28 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 > **AI Project Engineer** specializing in **Computer Vision**, **Machine Learning**, and **Defense Technology Solutions**
 
-- 🔭 Currently working at **Maharshi Industries Pvt Ltd** on AI-driven Surveillance Systems for **DRDO, Indian Army & Indian Navy**
-- 🎯 Deployed AI solutions in **Rajouri Sector** and **Kupawara near Srinagar** with Battle Field Surveillance systems
-- 🏆 Achieved **25% reduction in security breaches** and **70% reduction in false alarms** through advanced AI implementations
+-  Currently working at **Maharshi Industries Pvt Ltd** on AI-driven Surveillance Systems for **DRDO, Indian Army & Indian Navy**
+-  Deployed AI solutions in **Rajouri Sector** and **Kupawara near Srinagar** with Battle Field Surveillance systems
+-  Achieved **25% reduction in security breaches** and **70% reduction in false alarms** through advanced AI implementations
 - 🎓 **Post Graduate in AI & ML** from MIT-World Peace University with **8.56 CGPA**
-- 💡 Passionate about **Computer Vision**, **GPU Optimization**, **Robotics**, and **Edge Computing**
-- 🌱 Always exploring cutting-edge technologies in **AI**, **Deep Learning**, and **IoT**
-- 📫 Reach me at: **jainaksh.1998@gmail.com**
+-  Passionate about **Computer Vision**, **GPU Optimization**, **Robotics**, and **Edge Computing**
+-  Always exploring cutting-edge technologies in **AI**, **Deep Learning**, and **IoT**
+-  Reach me at: **jainaksh.1998@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🔥 Core Technologies
+###  Core Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,linux,ubuntu&perline=6" />
 </p>
 
-### 🧠 AI/ML & Data Science
+###  AI/ML & Data Science
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=3" />
 </p>
@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,jupyter&perline=4" />
 </p>
 
-### 🤖 Specialized Skills
+###  Specialized Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Vision-FF6B6B?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -68,24 +68,24 @@
 
 ---
 
-## 💼 Professional Highlights
+##  Professional Highlights
 
 ### 🛡️ Defense & Security AI Solutions
 ```
-🎯 AI-Driven Surveillance Systems for Defense Clients
-   ├── 📊 25% reduction in security breaches
-   ├── 🚨 70% reduction in false alarms  
-   ├── 🔍 Real-time Human & Animal Intrusion Detection
-   └── 📹 Camera Fusion with ReID Technology
+ AI-Driven Surveillance Systems for Defense Clients
+   ├── 25% reduction in security breaches
+   ├── 70% reduction in false alarms  
+   ├── Real-time Human & Animal Intrusion Detection
+   └── Camera Fusion with ReID Technology
 
-🚀 Deployed Solutions
-   ├── 🏔️ Rajouri Sector with 15 GR
-   ├── 🏔️ Rasthiya Rifles in Kupawara near Srinagar
-   ├── 📡 Battle Field Surveillance Radar Integration
-   └── 🚪 ANPR & Facial Recognition Systems
+ Deployed Solutions
+   ├── Rajouri Sector with 15 GR
+   ├── Rasthiya Rifles in Kupawara near Srinagar
+   ├── Battle Field Surveillance Radar Integration
+   └── ANPR & Facial Recognition Systems
 ```
 
-### 🤖 Custom AI Models Developed
+### Custom AI Models Developed
 - **🧑 Human Detection** - Custom Trained RT-DETR model for Object Detection
 - **🐆 Animal Classification** - Custom Architecture of RT-DETR model as Detection and Facebook DINVO-V2 Model for Classification
 - **📱 Person using Phone Detection** - Custom CNN Architecture for Usage of Phones
@@ -112,12 +112,12 @@
 - Performance comparison: VGG16, ResNet, Inception, Xception
 - **Best Performance: ResNet** architecture
 
-### 📰 NLP & Information Processing
+### NLP & Information Processing
 - **Fake News Detection System** using advanced NLP techniques
 - **Machine Learning Models**: Logistic Regression, SVM, Naive Bayes
 - **TF-IDF Vectorization** with cross-validation optimization
 
-### 🤝 Recommendation Systems
+### Recommendation Systems
 - **AI-Powered Matchmaking** using K-Nearest Neighbors
 - Advanced feature selection and compatibility algorithms
 - User preference analysis and recommendation optimization
